@@ -3,7 +3,7 @@ import { motion, HTMLMotionProps } from "framer-motion";
 import { cn } from "./Button";
 
 export interface CardProps extends HTMLMotionProps<"div"> {
-  variant?: "glass" | "glass-brand";
+  variant?: "glass" | "glass-gold";
 }
 
 export const Card = React.forwardRef<HTMLDivElement, CardProps>(
@@ -15,7 +15,7 @@ export const Card = React.forwardRef<HTMLDivElement, CardProps>(
           "rounded-3xl p-6 transition-all duration-300",
           {
             "glass": variant === "glass",
-            "glass-brand shadow-[0_0_30px_rgba(212,175,55,0.15)]": variant === "glass-brand",
+            "glass-gold shadow-[0_0_30px_rgba(212,175,55,0.15)]": variant === "glass-gold",
           },
           className
         )}
