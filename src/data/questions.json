@@ -1,0 +1,161 @@
+{
+  "id": "default-pack",
+  "name": "The Classic Experience",
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title": "First Impressions",
+      "description": "Let's break the ice and see what you noticed.",
+      "questions": [
+        {
+          "id": "q1-1",
+          "text": "What was the very first thing you noticed about me?",
+          "duration": 45
+        },
+        {
+          "id": "q1-2",
+          "text": "What's a weird first impression you often give people?",
+          "duration": 60
+        },
+        {
+          "id": "q1-3",
+          "text": "What's the best compliment you've ever received?",
+          "duration": 45
+        },
+        {
+          "id": "q1-4",
+          "text": "If you had to describe my vibe in three words right now, what would they be?",
+          "duration": 60
+        }
+      ],
+      "mission": {
+        "id": "m1",
+        "text": "Take a moment. No phones for the next three minutes. Just be here."
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": "Getting Comfortable",
+      "description": "Diving a little deeper.",
+      "questions": [
+        {
+          "id": "q2-1",
+          "text": "What's a topic you could talk about for hours without stopping?",
+          "duration": 60
+        },
+        {
+          "id": "q2-2",
+          "text": "What's something you're secretly really proud of but rarely talk about?",
+          "duration": 90
+        },
+        {
+          "id": "q2-3",
+          "text": "What's a small thing that instantly ruins a date for you?",
+          "duration": 60
+        },
+        {
+          "id": "q2-4",
+          "text": "If you could instantly master any skill tonight, what would it be?",
+          "duration": 60
+        }
+      ],
+      "mission": {
+        "id": "m2",
+        "text": "Choose the next song to play. Make it a good one."
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": "Fun & Chaos",
+      "description": "Time to embrace the unpredictable.",
+      "questions": [
+        {
+          "id": "q3-1",
+          "text": "What is the most chaotic thing you've done on a whim?",
+          "duration": 90
+        },
+        {
+          "id": "q3-2",
+          "text": "What's a popular opinion you completely disagree with?",
+          "duration": 60
+        },
+        {
+          "id": "q3-3",
+          "text": "If you had to fake your own death, how would you do it?",
+          "duration": 120
+        },
+        {
+          "id": "q3-4",
+          "text": "What's the worst advice you've ever actually followed?",
+          "duration": 60
+        }
+      ],
+      "mission": {
+        "id": "m3",
+        "text": "Take one selfie together to document this exact moment."
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": "Chemistry",
+      "description": "Let's see if we're actually on the same page.",
+      "questions": [
+        {
+          "id": "q4-1",
+          "text": "What's something you find undeniably attractive in a person?",
+          "duration": 60
+        },
+        {
+          "id": "q4-2",
+          "text": "Do you believe chemistry is instant, or built over time?",
+          "duration": 90
+        },
+        {
+          "id": "q4-3",
+          "text": "What's the most romantic thing someone has unexpectedly done for you?",
+          "duration": 90
+        },
+        {
+          "id": "q4-4",
+          "text": "If you could freeze this moment, what would you remember most about it?",
+          "duration": 60
+        }
+      ],
+      "mission": {
+        "id": "m4",
+        "text": "Maintain eye contact for 30 seconds. No talking."
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": "Future",
+      "description": "Looking ahead, whatever that might mean.",
+      "questions": [
+        {
+          "id": "q5-1",
+          "text": "What are you most looking forward to in the next month?",
+          "duration": 60
+        },
+        {
+          "id": "q5-2",
+          "text": "Where is somewhere you've always wanted to travel but haven't yet?",
+          "duration": 45
+        },
+        {
+          "id": "q5-3",
+          "text": "What's a goal you're currently working towards that excites you?",
+          "duration": 90
+        },
+        {
+          "id": "q5-4",
+          "text": "If tonight was a movie, what would the ending scene look like?",
+          "duration": 90
+        }
+      ],
+      "mission": {
+        "id": "m5",
+        "text": "Just enjoy the moment in silence. Let it sink in."
+      }
+    }
+  ]
+}
