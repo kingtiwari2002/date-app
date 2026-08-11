@@ -25,7 +25,7 @@ export default function EndScreen() {
         </h1>
 
         <div className="space-y-6 text-lg md:text-xl text-white/80 font-light leading-relaxed">
-          <p>Whether tonight ends here,</p>
+          <p>Whether today ends here,</p>
           <p>or becomes the first chapter of something bigger,</p>
           <p>I'm genuinely glad you were part of it.</p>
         </div>

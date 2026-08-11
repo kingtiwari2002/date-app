@@ -75,7 +75,7 @@ export default function Home() {
               className="w-16 h-16 rounded-full border-t-2 border-[#D4AF37]"
             />
             <p className="text-xl font-light tracking-wide text-white/70" onClick={handleHiddenTrigger}>
-              Preparing tonight's adventure...
+              Preparing today's adventure...
             </p>
           </motion.div>
         ) : (
@@ -96,6 +96,7 @@ export default function Home() {
                 <p>I wanted our first meeting to be a little different.</p>
                 <p>Instead of spending the evening deciding what to do next...</p>
                 <p>I built something.</p>
+                <p>This app, and every question in it, was made specially for you — a lot of thought and time went into it, and I really hope you like it.</p>
                 <p className="pt-4 text-[#D4AF37]">
                   For the next hour,<br/>
                   you'll make a few choices,<br/>

@@ -27,8 +27,12 @@ export default function RulesScreen() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
+          className="space-y-4"
         >
           <h1 className="text-3xl md:text-5xl font-light text-[#D4AF37] mb-2 tracking-wide">Three Rules</h1>
+          <p className="text-white/60 font-light max-w-sm mx-auto">
+            This whole experience was made specially for you — a lot of thought and time went into it, and I really hope you like it.
+          </p>
         </motion.div>
 
         <div className="space-y-8 w-full max-w-sm text-left">

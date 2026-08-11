@@ -9,59 +9,59 @@
       "questions": [
         {
           "id": "q1-1",
-          "text": "What was the very first thing you noticed about me?",
-          "duration": 45
+          "text": "Be honest — on a scale of 'meh' to 'I stalked your Instagram twice,' how excited were you for today?",
+          "duration": 60
         },
         {
           "id": "q1-2",
-          "text": "What's a weird first impression you often give people?",
-          "duration": 60
-        },
-        {
-          "id": "q1-3",
-          "text": "What's the best compliment you've ever received?",
+          "text": "What's the first thing you noticed about me that you'd never admit out loud?",
           "duration": 45
         },
         {
-          "id": "q1-4",
-          "text": "If you had to describe my vibe in three words right now, what would they be?",
+          "id": "q1-3",
+          "text": "If you had to rate my texting game out of 10 before today, what would it be — and why so harsh?",
           "duration": 60
+        },
+        {
+          "id": "q1-4",
+          "text": "Pick one: my smile, my voice, or my sense of humor. You have to choose, no cheating.",
+          "duration": 45
         }
       ],
       "mission": {
         "id": "m1",
-        "text": "Take a moment. No phones for the next three minutes. Just be here."
+        "text": "No phones for the next three minutes. Just look at each other and try not to laugh."
       }
     },
     {
       "id": "chapter-2",
       "title": "Getting Comfortable",
-      "description": "Diving a little deeper.",
+      "description": "Diving a little deeper (and a little more shameless).",
       "questions": [
         {
           "id": "q2-1",
-          "text": "What's a topic you could talk about for hours without stopping?",
+          "text": "What's your most embarrassing celebrity crush that you'd only confess on a first date?",
           "duration": 60
         },
         {
           "id": "q2-2",
-          "text": "What's something you're secretly really proud of but rarely talk about?",
-          "duration": 90
+          "text": "Would you rather I be a great cook or a great dancer? Pick fast, I'm judging the pause.",
+          "duration": 45
         },
         {
           "id": "q2-3",
-          "text": "What's a small thing that instantly ruins a date for you?",
+          "text": "What's the cheesiest pickup line you'd secretly melt for, even if you'd roast it in public?",
           "duration": 60
         },
         {
           "id": "q2-4",
-          "text": "If you could instantly master any skill tonight, what would it be?",
+          "text": "If we got matching tattoos today on a dare, what terrible thing would we get?",
           "duration": 60
         }
       ],
       "mission": {
         "id": "m2",
-        "text": "Choose the next song to play. Make it a good one."
+        "text": "Choose the next song to play — bonus points if it's a little too romantic for how long we've known each other."
       }
     },
     {
@@ -71,28 +71,28 @@
       "questions": [
         {
           "id": "q3-1",
-          "text": "What is the most chaotic thing you've done on a whim?",
+          "text": "If we had to run away together today with only what's in your bag, what's our getaway plan?",
           "duration": 90
         },
         {
           "id": "q3-2",
-          "text": "What's a popular opinion you completely disagree with?",
+          "text": "What's a totally unnecessary skill you have that would somehow make me fall for you?",
           "duration": 60
         },
         {
           "id": "q3-3",
-          "text": "If you had to fake your own death, how would you do it?",
-          "duration": 120
+          "text": "Give me a nickname right now. You can't overthink it, just say it.",
+          "duration": 45
         },
         {
           "id": "q3-4",
-          "text": "What's the worst advice you've ever actually followed?",
+          "text": "What's the most embarrassing thing you'd do to win my attention in a room full of people?",
           "duration": 60
         }
       ],
       "mission": {
         "id": "m3",
-        "text": "Take one selfie together to document this exact moment."
+        "text": "Take one selfie together — but you both have to make the most awkward face possible."
       }
     },
     {
@@ -102,28 +102,28 @@
       "questions": [
         {
           "id": "q4-1",
-          "text": "What's something you find undeniably attractive in a person?",
-          "duration": 60
+          "text": "On a scale of 1 to 10, how's the chemistry going right now? You have to answer before you overthink it.",
+          "duration": 45
         },
         {
           "id": "q4-2",
-          "text": "Do you believe chemistry is instant, or built over time?",
-          "duration": 90
+          "text": "What's something about me that's more attractive in person than you expected?",
+          "duration": 60
         },
         {
           "id": "q4-3",
-          "text": "What's the most romantic thing someone has unexpectedly done for you?",
-          "duration": 90
+          "text": "If I tried to hold your hand right now, would you let me — and don't just say yes to be nice.",
+          "duration": 45
         },
         {
           "id": "q4-4",
-          "text": "If you could freeze this moment, what would you remember most about it?",
-          "duration": 60
+          "text": "What would it take for today to end with a second date already planned?",
+          "duration": 90
         }
       ],
       "mission": {
         "id": "m4",
-        "text": "Maintain eye contact for 30 seconds. No talking."
+        "text": "Maintain eye contact for 30 seconds. No talking, no laughing — good luck."
       }
     },
     {
@@ -133,28 +133,28 @@
       "questions": [
         {
           "id": "q5-1",
-          "text": "What are you most looking forward to in the next month?",
+          "text": "If I planned our second date, what's one thing it absolutely has to include?",
           "duration": 60
         },
         {
           "id": "q5-2",
-          "text": "Where is somewhere you've always wanted to travel but haven't yet?",
-          "duration": 45
+          "text": "What's a silly couple thing you've always wanted to do but never had the right person for?",
+          "duration": 60
         },
         {
           "id": "q5-3",
-          "text": "What's a goal you're currently working towards that excites you?",
-          "duration": 90
+          "text": "Be honest — are you already thinking about what you'd tell your friends about today?",
+          "duration": 60
         },
         {
           "id": "q5-4",
-          "text": "If tonight was a movie, what would the ending scene look like?",
+          "text": "If today was a movie, what would the last line before the credits be?",
           "duration": 90
         }
       ],
       "mission": {
         "id": "m5",
-        "text": "Just enjoy the moment in silence. Let it sink in."
+        "text": "Just sit in the moment for a bit. No talking, no phones — let it sink in."
       }
     }
   ]

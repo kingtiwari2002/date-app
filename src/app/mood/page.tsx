@@ -13,7 +13,7 @@ const moods = [
     id: "flirty",
     emoji: "❤️",
     title: "Let's See Where This Goes",
-    description: "Open to flirting, chemistry and seeing where tonight leads.",
+    description: "Open to flirting, chemistry and seeing where today leads.",
   },
   {
     id: "chill",
@@ -56,7 +56,7 @@ export default function MoodScreen() {
         <div className="space-y-4">
           <p className="text-sm uppercase tracking-widest text-[#D4AF37]">Step 1</p>
           <h1 className="text-3xl md:text-4xl font-light text-glow">Set The Mood</h1>
-          <p className="text-white/60 font-light">How are we feeling tonight?</p>
+          <p className="text-white/60 font-light">How are we feeling today?</p>
         </div>
 
         <div className="w-full space-y-4">

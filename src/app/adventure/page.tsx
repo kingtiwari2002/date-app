@@ -75,7 +75,7 @@ export default function AdventureScreen() {
             >
               <p className="text-sm uppercase tracking-widest text-[#D4AF37]">Step 2</p>
               <h1 className="text-3xl md:text-4xl font-light text-glow">Choose The Adventure</h1>
-              <p className="text-white/60 font-light">Pick a card to reveal tonight's setting.</p>
+              <p className="text-white/60 font-light">Pick a card to reveal today's setting.</p>
             </motion.div>
           ) : (
             <motion.div
@@ -84,7 +84,7 @@ export default function AdventureScreen() {
               animate={{ opacity: 1, y: 0 }}
               className="space-y-4"
             >
-              <h1 className="text-3xl md:text-4xl font-light text-glow">Looks like tonight has chosen...</h1>
+              <h1 className="text-3xl md:text-4xl font-light text-glow">Looks like today has chosen...</h1>
               <p className="text-2xl font-medium text-[#D4AF37]">
                 {cards[selectedCardIndex!].icon} {cards[selectedCardIndex!].title}
               </p>
